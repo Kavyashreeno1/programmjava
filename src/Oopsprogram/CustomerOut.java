@@ -4,10 +4,11 @@ public class CustomerOut {
 
 	public static void main(String[] args) {
 		
-       Scanner sc=new Scanner(System.in);
+       Scanner sc=new Scanner(System.in); {
        
        String name,city;
        int age;
+       
        
        Customer customer = new Customer();
        //Read Values from the user
@@ -49,6 +50,7 @@ public class CustomerOut {
        
        
        System.out.println(customer1);
+       }
 	}
 
 }
