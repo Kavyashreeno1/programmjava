@@ -1,4 +1,4 @@
-package Oopsprogram;
+package com.tnsif.Oopsprogram;
 
 public class ProgClass {
 	

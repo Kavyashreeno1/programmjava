@@ -1,4 +1,4 @@
-package Oopsprogram;
+package com.tnsif.Oopsprogram;
 // constructor
 public class Customer {
 	

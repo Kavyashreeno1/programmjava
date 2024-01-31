@@ -1,4 +1,4 @@
-package Oopsprogram;
+package com.tnsif.Oopsprogram;
 import java.util.Scanner;
 public class CustomerOut {
 
